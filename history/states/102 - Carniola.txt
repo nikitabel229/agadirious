@@ -6,7 +6,7 @@ state = {
 	local_supplies = 5.0
 
 	history = {
-		owner = AUS
+		owner = SLV
 		add_core_of = AUS
 		add_core_of = SLV
 		add_claim_by = CRO
