@@ -129,7 +129,7 @@ country_event = { id = austria_events.3 days = 4108 } #Death of Karl I
 country_event = { id = austria_events.4 days = 3432 } #Death of Emil Skoda
 
 set_politics = {
-	ruling_party = social_conservative
+	ruling_party = communism
 	last_election = "1930.3.9"
 	election_frequency = 72
 	elections_allowed = yes
